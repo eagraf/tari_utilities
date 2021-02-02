@@ -1,0 +1,7 @@
+base:
+  language: rust
+  sanitizers:
+    address:
+    memory:
+    thread:
+
